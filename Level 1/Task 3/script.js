@@ -1,3 +1,5 @@
+/*Level 1 Task 3 - Temperature Converter
+Temperature Converter web Page using HTML, CSS and JS*/
 function convertTemperature() {
     let temperatureInput = document.getElementById("temperatureInput").value;
     let unitSelect = document.getElementById("unitSelect").value;
